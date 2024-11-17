@@ -60,15 +60,14 @@ body {
 .calculator .keys button:hover{
     background-color: #ddd;
 }
-
 .calculator .keys button.sci{
-    background-color: #d3ab47;
+ background-color: #d3ab47;
 }
 
 .calculator .keys button.clear{
 
-        background-color: #f05454;
-        color: white;
+ background-color: #f05454;
+ color: white;
    
 }
 
